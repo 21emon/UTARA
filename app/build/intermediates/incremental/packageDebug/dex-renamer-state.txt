@@ -1,0 +1,7 @@
+#Thu Nov 24 09:47:15 ICT 2016
+base.0=C\:\\Users\\Ngiga\\StudioProjects\\UTARA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4eb89cbd1825146b04b254903e9683dce68ff68a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Ngiga\\StudioProjects\\UTARA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fc623853abcd44cdf683a8448340753d2877c63e\\classes.dex
+base.1=C\:\\Users\\Ngiga\\StudioProjects\\UTARA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_fc623853abcd44cdf683a8448340753d2877c63e
+file.0=C\:\\Users\\Ngiga\\StudioProjects\\UTARA\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4eb89cbd1825146b04b254903e9683dce68ff68a\\classes.dex

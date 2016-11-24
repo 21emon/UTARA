@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.utara"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo2"
+        android:label="@string/judul"
+        android:theme="@style/AppTheme" >
+
+        <!-- Splash screen -->
+        <activity
+            android:name="com.example.utara.SplashScreen"
+            android:label="@string/judul"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.utara.SplashScreen5"
+            android:label="@string/judul"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+
+        <!-- Splash screen -->
+
+
+        <!-- Splash screen -->
+        <activity
+            android:name="com.example.utara.SplashScreen4"
+            android:label="@string/judul"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar" >
+        </activity>
+
+        <!-- Splash screen -->
+
+
+        <!-- Splash screen -->
+
+
+        <!-- Splash screen android:screenOrientation="landscape" android:configChanges="orientation|screenSize" -->
+
+        <activity
+            android:name="com.example.utara.Home"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <activity
+            android:name="com.example.utara.MainActivity"
+            android:screenOrientation="landscape"
+            android:theme="@android:style/Theme.Black.NoTitleBar" />
+        <!-- <activity android:name="com.example.utara.Petunjuk" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar"></activity><activity android:name="com.example.utara.MainActivity" android:label="@string/judul"> -->
+        <!-- </activity> -->
+        <!--  -->
+        <!-- <activity android:name="level2.MainLevel2" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar"></activity> -->
+        <!-- <activity android:name="level3.MainLevel3" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar"></activity> -->
+        <!-- <activity android:name="level4.MainLevel4" android:screenOrientation="landscape" android:theme="@android:style/Theme.Black.NoTitleBar"></activity> -->
+    </application>
+
+</manifest>

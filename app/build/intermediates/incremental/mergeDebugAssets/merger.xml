@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Ngiga\StudioProjects\UTARA\app\src\main\assets"><file name="Roboto-Regular.ttf" path="C:\Users\Ngiga\StudioProjects\UTARA\app\src\main\assets\Roboto-Regular.ttf"/></source><source path="C:\Users\Ngiga\StudioProjects\UTARA\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Ngiga\StudioProjects\UTARA\app\src\debug\assets"/></dataSet></merger>

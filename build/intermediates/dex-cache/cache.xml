@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ngiga\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Ngiga\StudioProjects\UTARA\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_0aa7ba019c2b690150adc8f194562765a7a3ef7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ngiga\StudioProjects\UTARA\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2775e5c176b2e37d972cd8681791c58cf4056d0e">
+        <dex dex="C:\Users\Ngiga\StudioProjects\UTARA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_4eb89cbd1825146b04b254903e9683dce68ff68a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Ngiga\StudioProjects\UTARA\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="031e2235858cc9d4600200e52097b220d68be352">
+        <dex dex="C:\Users\Ngiga\StudioProjects\UTARA\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fc623853abcd44cdf683a8448340753d2877c63e\classes.dex" />
+    </item>
+
+</items>
